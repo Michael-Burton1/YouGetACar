@@ -23,17 +23,17 @@ namespace Game.Controllers
 
     // GET api/drawings
     [HttpGet]
-    public async Task<ActionResult<IEnumerable<Drawing>>> Get(string date, string type, )
+    public async Task<ActionResult<IEnumerable<Drawing>>> Get(string date, string name)
     {
-      var query = _db.Animals.AsQueryable();
+      var query = _db.Drawings.AsQueryable();
 
       if (date != null)
       {
         query = query.Where(entry => entry.Date == date);
       }
-      if (type != null)
+      if (name != null)
       {
-        query = query.Where(entry => entry.Type == type);
+        query = query.Where(entry => entry.Name == name);
       }
       return await query.ToListAsync();
     }
@@ -45,7 +45,7 @@ namespace Game.Controllers
       _db.Drawings.Add(drawing);
       await _db.SaveChangesAsync();
 
-      return CreatedAtAction(typeof(GetDrawing), new { id = drawing.DrawingId }, drawing);
+      return CreatedAtAction(nameof(GetDrawing), new { id = drawing.DrawingId }, drawing);
     }
     // GET: api/Drawings/5
     [HttpGet("{id}")]
