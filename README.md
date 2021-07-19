@@ -42,7 +42,7 @@ This project also has an API that was built and seeded with 'false data' to be a
 >* _As of now, cannot able to build API_
 ---
 ## Proposal
-_View My proposal for MVP and Strech goals [HERE](propsal)._
+_View My proposal for MVP and Strech goals [HERE](PROPOSAL)._
 ## License
 _Licensed under the [MIT License](LICENSE)._
 
