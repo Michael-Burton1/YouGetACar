@@ -1,0 +1,35 @@
+Name of Student: Michael Burton
+
+Name of Project: Let's all get rich! (or some other clever pun. I'm open to suggestions)
+
+Project's Purpose or Goal: this app will show the most common numbers drawn in any lottery games to be able to give the user winning numbers
+
+List the absolute minimum features the project requires to meet this purpose or goal:
+
+make a call to a lottery API to find all past drawn numbers
+take all the numbers drawn ever and calculate the most common numbers drawn
+have a UI that will display "winning" numbers
+What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
+
+API: https://collectapi.com/api/chancegame/lottery-api
+Javascript
+react or some kind of webpack
+css or tailwind for design
+If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
+
+Have some filters for users to be able to query for whatever state they want to check
+Have some filters for users to be able to query for specific games they want to check
+(also, open to some ideas here)
+What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
+
+another api if I cannot find the correct querrable endpoints to be able to search by state or game
+Is there anything else you'd like your instructor to know?
+
+While I am excited to attempt this by myself I am terrified that I will not have the chops to do this on my own. I guess you don't really need to know this but I feel like I need to vent my anxieties.
+
+
+Update: after speaking with My instructors it was brought up that the API I chose hit a pretty large paywall really quickly. I spent several hours looking for an API that would work for me, but was free to use. After some frustration and another talk with instructors I have revised My MVP
+
+MVP: I am now going to build an API with dummy data to be able to use on a client side application. the app will still incorporate the goals that I had before I just need to be able to feed it some Data. 
+
+Strech goals : If I get the app working I will try to teach myself how to scrape websites for data to get actual past winning numbers from lotto pages.
