@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace Game.Models
+namespace RestServer.Models
 {
   public class Drawing
   {

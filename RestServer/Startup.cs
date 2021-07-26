@@ -4,7 +4,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
-using Game.Models;
+using RestServer.Models;
 using System;
 using System.Reflection;
 using System.IO;
@@ -25,7 +25,7 @@ namespace Game
         public void ConfigureServices(IServiceCollection services)
         {
 
-            services.AddDbContext<GameContext>(opt =>
+            services.AddDbContext<RestServerContext>(opt =>
                 opt.UseMySql(Configuration["ConnectionStrings:DefaultConnection"], ServerVersion.AutoDetect(Configuration["ConnectionStrings:DefaultConnection"])));
             services.AddControllers();
             services.AddSwaggerGen(c => 

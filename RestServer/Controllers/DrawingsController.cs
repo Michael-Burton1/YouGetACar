@@ -5,18 +5,18 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Game.Models;
+using RestServer.Models;
 
 
-namespace Game.Controllers
+namespace RestServer.Controllers
 {
   [Route("api/[controller]")]
   [ApiController]
-  public class DrawingController : ControllerBase
+  public class DrawingsController : ControllerBase
   {
-    private readonly GameContext _db;
+    private readonly RestServerContext _db;
 
-    public DrawingsController(GameContext db)
+    public DrawingsController(RestServerContext db)
     {
       _db = db;
     }
@@ -53,7 +53,7 @@ namespace Game.Controllers
     {
       var drawing = await _db.Drawings.FindAsync(id);
 
-      if (drawings == null)
+      if (drawing == null)
       {
         return NotFound();
       }
