@@ -21,7 +21,7 @@ export const makeApiCall = () => {
       .then(response => response.json())
       .then(
         (jsonifiedResponse) => {
-          dispatch(getDrawingsSuccess(jsonifiedResponse.results));
+          dispatch(getDrawingsSuccess(jsonifiedResponse));
         })
       .catch((error) => {
         dispatch(getDrawingsFailure(error));
