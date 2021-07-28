@@ -4,3 +4,4 @@ appsettings.json
 .DS_Store
 .vscode/
 .env
+ClientSide/node_modules/
