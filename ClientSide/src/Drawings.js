@@ -22,11 +22,11 @@ class Drawings extends React.Component {
       return (
         <React.Fragment>
           <h1>All drawing numbers</h1>
+          {console.log(drawings)};
           <ul>
             {drawings.map((drawing, index) =>
               <li key={index}>
                 <h3>{drawing.name}</h3>
-                {/* <p>{headline.abstract}</p> */}
               </li>
             )}
           </ul>
@@ -38,10 +38,10 @@ class Drawings extends React.Component {
 
 const mapStateToProps = state => {
   return {
-    headlines: state.headlines,
+    drawings: state.drawings,
     isLoading: state.isLoading,
     error: state.error
   }
 }
 
-export default connect(mapStateToProps)(Headlines);
+export default connect(mapStateToProps)(Drawings);
