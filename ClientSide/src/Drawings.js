@@ -26,7 +26,8 @@ class Drawings extends React.Component {
           <ul>
             {drawings.map((drawing, index) =>
               <li key={index}>
-                <h3>{drawing.name}</h3>
+                <h3>{drawing.name}: {drawing.date}</h3>
+                <h4>Winning numbers: {drawing.num1},{drawing.num2},{drawing.num3},{drawing.num4},{drawing.num5} <br></br>PowerBall: {drawing.kicker}</h4>
               </li>
             )}
           </ul>
