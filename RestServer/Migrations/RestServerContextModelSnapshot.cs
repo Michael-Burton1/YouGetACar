@@ -56,7 +56,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 1,
-                            Date = "1/10/21",
+                            Date = "5/5/20",
                             Kicker = 7,
                             Name = "Power Ball",
                             Num1 = 1,
@@ -68,7 +68,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 2,
-                            Date = "1/10/21",
+                            Date = "5/7/20",
                             Kicker = 1,
                             Name = "Power Ball",
                             Num1 = 7,
@@ -80,7 +80,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 3,
-                            Date = "1/10/21",
+                            Date = "5/12/20",
                             Kicker = 6,
                             Name = "Power Ball",
                             Num1 = 2,
@@ -92,7 +92,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 4,
-                            Date = "1/10/21",
+                            Date = "5/14/20",
                             Kicker = 13,
                             Name = "Power Ball",
                             Num1 = 32,
@@ -104,7 +104,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 5,
-                            Date = "1/10/21",
+                            Date = "5/19/20",
                             Kicker = 3,
                             Name = "Power Ball",
                             Num1 = 5,
@@ -116,7 +116,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 6,
-                            Date = "1/10/21",
+                            Date = "5/22/20",
                             Kicker = 16,
                             Name = "Power Ball",
                             Num1 = 6,
@@ -128,7 +128,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 7,
-                            Date = "1/10/21",
+                            Date = "5/26/20",
                             Kicker = 21,
                             Name = "Power Ball",
                             Num1 = 2,
@@ -140,7 +140,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 8,
-                            Date = "1/10/21",
+                            Date = "5/28/20",
                             Kicker = 18,
                             Name = "Power Ball",
                             Num1 = 7,
@@ -152,7 +152,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 9,
-                            Date = "1/10/21",
+                            Date = "6/2/20",
                             Kicker = 11,
                             Name = "Power Ball",
                             Num1 = 14,
@@ -164,7 +164,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 10,
-                            Date = "1/10/21",
+                            Date = "6/4/20",
                             Kicker = 11,
                             Name = "Power Ball",
                             Num1 = 21,
@@ -176,7 +176,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 11,
-                            Date = "1/10/21",
+                            Date = "6/9/20",
                             Kicker = 9,
                             Name = "Power Ball",
                             Num1 = 13,
@@ -188,7 +188,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 12,
-                            Date = "1/10/21",
+                            Date = "6/11/20",
                             Kicker = 15,
                             Name = "Power Ball",
                             Num1 = 8,
@@ -200,7 +200,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 13,
-                            Date = "1/10/21",
+                            Date = "6/16/20",
                             Kicker = 27,
                             Name = "Power Ball",
                             Num1 = 9,
@@ -212,7 +212,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 14,
-                            Date = "1/10/21",
+                            Date = "6/18/20",
                             Kicker = 17,
                             Name = "Power Ball",
                             Num1 = 2,
@@ -224,7 +224,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 15,
-                            Date = "1/10/21",
+                            Date = "6/23/20",
                             Kicker = 20,
                             Name = "Power Ball",
                             Num1 = 16,
@@ -236,7 +236,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 16,
-                            Date = "1/10/21",
+                            Date = "6/25/20",
                             Kicker = 7,
                             Name = "Power Ball",
                             Num1 = 3,
@@ -248,7 +248,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 17,
-                            Date = "1/10/21",
+                            Date = "6/30/20",
                             Kicker = 16,
                             Name = "Power Ball",
                             Num1 = 30,
@@ -260,7 +260,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 18,
-                            Date = "1/10/21",
+                            Date = "7/2/20",
                             Kicker = 23,
                             Name = "Power Ball",
                             Num1 = 2,
@@ -272,7 +272,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 19,
-                            Date = "1/10/21",
+                            Date = "7/7/20",
                             Kicker = 7,
                             Name = "Power Ball",
                             Num1 = 24,
@@ -284,7 +284,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 20,
-                            Date = "1/10/21",
+                            Date = "7/9/20",
                             Kicker = 7,
                             Name = "Power Ball",
                             Num1 = 15,
@@ -296,7 +296,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 21,
-                            Date = "1/10/21",
+                            Date = "7/14/20",
                             Kicker = 23,
                             Name = "Power Ball",
                             Num1 = 13,
@@ -308,7 +308,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 22,
-                            Date = "1/10/21",
+                            Date = "7/16/20",
                             Kicker = 6,
                             Name = "Power Ball",
                             Num1 = 8,
@@ -320,7 +320,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 23,
-                            Date = "1/10/21",
+                            Date = "7/21/20",
                             Kicker = 9,
                             Name = "Power Ball",
                             Num1 = 5,
@@ -332,7 +332,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 24,
-                            Date = "1/10/21",
+                            Date = "7/23/20",
                             Kicker = 3,
                             Name = "Power Ball",
                             Num1 = 2,
@@ -344,7 +344,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 25,
-                            Date = "1/10/21",
+                            Date = "7/28/20",
                             Kicker = 23,
                             Name = "Power Ball",
                             Num1 = 5,
@@ -356,7 +356,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 26,
-                            Date = "1/10/21",
+                            Date = "7/30/20",
                             Kicker = 18,
                             Name = "Power Ball",
                             Num1 = 14,
@@ -368,7 +368,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 27,
-                            Date = "1/10/21",
+                            Date = "8/4/20",
                             Kicker = 9,
                             Name = "Power Ball",
                             Num1 = 9,
@@ -380,7 +380,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 28,
-                            Date = "1/10/21",
+                            Date = "8/6/20",
                             Kicker = 14,
                             Name = "Power Ball",
                             Num1 = 1,
@@ -392,7 +392,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 29,
-                            Date = "1/10/21",
+                            Date = "8/11/20",
                             Kicker = 10,
                             Name = "Power Ball",
                             Num1 = 4,
@@ -404,7 +404,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 30,
-                            Date = "1/10/21",
+                            Date = "8/13/20",
                             Kicker = 19,
                             Name = "Power Ball",
                             Num1 = 10,
@@ -416,7 +416,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 31,
-                            Date = "1/10/21",
+                            Date = "8/18/20",
                             Kicker = 24,
                             Name = "Power Ball",
                             Num1 = 16,
@@ -428,7 +428,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 32,
-                            Date = "1/10/21",
+                            Date = "8/20/20",
                             Kicker = 19,
                             Name = "Power Ball",
                             Num1 = 1,
@@ -440,7 +440,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 33,
-                            Date = "1/10/21",
+                            Date = "8/25/20",
                             Kicker = 1,
                             Name = "Power Ball",
                             Num1 = 6,
@@ -452,7 +452,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 34,
-                            Date = "1/10/21",
+                            Date = "8/27/20",
                             Kicker = 3,
                             Name = "Power Ball",
                             Num1 = 7,
@@ -464,7 +464,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 35,
-                            Date = "1/10/21",
+                            Date = "9/1/20",
                             Kicker = 15,
                             Name = "Power Ball",
                             Num1 = 5,
@@ -476,7 +476,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 36,
-                            Date = "1/10/21",
+                            Date = "9/3/20",
                             Kicker = 21,
                             Name = "Power Ball",
                             Num1 = 7,
@@ -488,7 +488,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 37,
-                            Date = "1/10/21",
+                            Date = "9/8/20",
                             Kicker = 24,
                             Name = "Power Ball",
                             Num1 = 13,
@@ -500,7 +500,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 38,
-                            Date = "1/10/21",
+                            Date = "9/10/20",
                             Kicker = 19,
                             Name = "Power Ball",
                             Num1 = 19,
@@ -512,7 +512,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 39,
-                            Date = "1/10/21",
+                            Date = "9/15/20",
                             Kicker = 14,
                             Name = "Power Ball",
                             Num1 = 2,
@@ -524,7 +524,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 40,
-                            Date = "1/10/21",
+                            Date = "9/17/20",
                             Kicker = 24,
                             Name = "Power Ball",
                             Num1 = 2,
@@ -536,7 +536,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 41,
-                            Date = "1/10/21",
+                            Date = "9/22/20",
                             Kicker = 6,
                             Name = "Power Ball",
                             Num1 = 18,
@@ -548,7 +548,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 42,
-                            Date = "1/10/21",
+                            Date = "9/24/20",
                             Kicker = 8,
                             Name = "Power Ball",
                             Num1 = 15,
@@ -560,7 +560,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 43,
-                            Date = "1/10/21",
+                            Date = "9/29/20",
                             Kicker = 28,
                             Name = "Power Ball",
                             Num1 = 12,
@@ -572,7 +572,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 44,
-                            Date = "1/10/21",
+                            Date = "10/1/20",
                             Kicker = 10,
                             Name = "Power Ball",
                             Num1 = 8,
@@ -584,7 +584,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 45,
-                            Date = "1/10/21",
+                            Date = "10/6/20",
                             Kicker = 14,
                             Name = "Power Ball",
                             Num1 = 1,
@@ -596,7 +596,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 46,
-                            Date = "1/10/21",
+                            Date = "10/8/20",
                             Kicker = 8,
                             Name = "Power Ball",
                             Num1 = 5,
@@ -608,7 +608,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 47,
-                            Date = "1/10/21",
+                            Date = "10/13/20",
                             Kicker = 22,
                             Name = "Power Ball",
                             Num1 = 26,
@@ -620,7 +620,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 48,
-                            Date = "1/10/21",
+                            Date = "10/15/20",
                             Kicker = 26,
                             Name = "Power Ball",
                             Num1 = 7,
@@ -632,7 +632,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 49,
-                            Date = "1/10/21",
+                            Date = "10/20/20",
                             Kicker = 17,
                             Name = "Power Ball",
                             Num1 = 2,
@@ -644,7 +644,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 50,
-                            Date = "1/10/21",
+                            Date = "10/22/20",
                             Kicker = 2,
                             Name = "Power Ball",
                             Num1 = 8,
@@ -656,7 +656,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 51,
-                            Date = "1/10/21",
+                            Date = "10/27/20",
                             Kicker = 13,
                             Name = "Power Ball",
                             Num1 = 6,
@@ -668,7 +668,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 52,
-                            Date = "1/10/21",
+                            Date = "10/29/20",
                             Kicker = 9,
                             Name = "Power Ball",
                             Num1 = 24,
@@ -680,7 +680,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 53,
-                            Date = "1/10/21",
+                            Date = "11/3/20",
                             Kicker = 4,
                             Name = "Power Ball",
                             Num1 = 24,
@@ -692,7 +692,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 54,
-                            Date = "1/10/21",
+                            Date = "11/5/20",
                             Kicker = 16,
                             Name = "Power Ball",
                             Num1 = 25,
@@ -704,7 +704,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 55,
-                            Date = "1/10/21",
+                            Date = "11/10/20",
                             Kicker = 22,
                             Name = "Power Ball",
                             Num1 = 3,
@@ -716,7 +716,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 56,
-                            Date = "1/10/21",
+                            Date = "11/12/20",
                             Kicker = 21,
                             Name = "Power Ball",
                             Num1 = 10,
@@ -728,7 +728,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 57,
-                            Date = "1/10/21",
+                            Date = "11/17/20",
                             Kicker = 7,
                             Name = "Power Ball",
                             Num1 = 2,
@@ -740,7 +740,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 58,
-                            Date = "1/10/21",
+                            Date = "11/19/20",
                             Kicker = 4,
                             Name = "Power Ball",
                             Num1 = 2,
@@ -752,7 +752,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 59,
-                            Date = "1/10/21",
+                            Date = "11/24/20",
                             Kicker = 2,
                             Name = "Power Ball",
                             Num1 = 8,
@@ -764,7 +764,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 60,
-                            Date = "1/10/21",
+                            Date = "11/26/20",
                             Kicker = 25,
                             Name = "Power Ball",
                             Num1 = 13,
@@ -776,7 +776,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 61,
-                            Date = "1/10/21",
+                            Date = "12/1/20",
                             Kicker = 15,
                             Name = "Power Ball",
                             Num1 = 1,
@@ -788,7 +788,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 62,
-                            Date = "1/10/21",
+                            Date = "12/3/20",
                             Kicker = 26,
                             Name = "Power Ball",
                             Num1 = 7,
@@ -800,7 +800,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 63,
-                            Date = "1/10/21",
+                            Date = "12/8/20",
                             Kicker = 12,
                             Name = "Power Ball",
                             Num1 = 2,
@@ -812,7 +812,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 64,
-                            Date = "1/10/21",
+                            Date = "12/10/20",
                             Kicker = 24,
                             Name = "Power Ball",
                             Num1 = 32,
@@ -824,7 +824,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 65,
-                            Date = "1/10/21",
+                            Date = "12/15/20",
                             Kicker = 26,
                             Name = "Power Ball",
                             Num1 = 5,
@@ -836,7 +836,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 66,
-                            Date = "1/10/21",
+                            Date = "12/17/20",
                             Kicker = 21,
                             Name = "Power Ball",
                             Num1 = 6,
@@ -848,7 +848,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 67,
-                            Date = "1/10/21",
+                            Date = "12/22/20",
                             Kicker = 2,
                             Name = "Power Ball",
                             Num1 = 2,
@@ -860,7 +860,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 68,
-                            Date = "1/10/21",
+                            Date = "12/24/20",
                             Kicker = 19,
                             Name = "Power Ball",
                             Num1 = 7,
@@ -872,7 +872,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 69,
-                            Date = "1/10/21",
+                            Date = "12/29/20",
                             Kicker = 16,
                             Name = "Power Ball",
                             Num1 = 14,
@@ -884,7 +884,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 70,
-                            Date = "1/10/21",
+                            Date = "12/31/20",
                             Kicker = 23,
                             Name = "Power Ball",
                             Num1 = 21,
@@ -944,7 +944,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 75,
-                            Date = "1/10/21",
+                            Date = "1/5/21",
                             Kicker = 28,
                             Name = "Power Ball",
                             Num1 = 16,
@@ -956,7 +956,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 76,
-                            Date = "1/10/21",
+                            Date = "1/7/21",
                             Kicker = 14,
                             Name = "Power Ball",
                             Num1 = 3,
@@ -968,7 +968,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 77,
-                            Date = "1/10/21",
+                            Date = "1/12/21",
                             Kicker = 15,
                             Name = "Power Ball",
                             Num1 = 30,
@@ -980,7 +980,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 78,
-                            Date = "1/10/21",
+                            Date = "1/14/21",
                             Kicker = 14,
                             Name = "Power Ball",
                             Num1 = 2,
@@ -992,7 +992,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 79,
-                            Date = "1/10/21",
+                            Date = "1/19/21",
                             Kicker = 1,
                             Name = "Power Ball",
                             Num1 = 24,
@@ -1004,7 +1004,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 80,
-                            Date = "1/10/21",
+                            Date = "1/21/21",
                             Kicker = 13,
                             Name = "Power Ball",
                             Num1 = 15,
@@ -1016,7 +1016,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 81,
-                            Date = "1/10/21",
+                            Date = "1/26/21",
                             Kicker = 22,
                             Name = "Power Ball",
                             Num1 = 13,
@@ -1028,7 +1028,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 82,
-                            Date = "1/10/21",
+                            Date = "1/28/21",
                             Kicker = 9,
                             Name = "Power Ball",
                             Num1 = 8,
@@ -1040,7 +1040,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 83,
-                            Date = "1/10/21",
+                            Date = "2/2/21",
                             Kicker = 15,
                             Name = "Power Ball",
                             Num1 = 5,
@@ -1052,7 +1052,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 84,
-                            Date = "1/10/21",
+                            Date = "2/4/21",
                             Kicker = 4,
                             Name = "Power Ball",
                             Num1 = 2,
@@ -1064,7 +1064,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 85,
-                            Date = "1/10/21",
+                            Date = "2/9/21",
                             Kicker = 26,
                             Name = "Power Ball",
                             Num1 = 5,
@@ -1076,7 +1076,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 86,
-                            Date = "1/10/21",
+                            Date = "2/11/21",
                             Kicker = 10,
                             Name = "Power Ball",
                             Num1 = 14,
@@ -1088,7 +1088,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 87,
-                            Date = "1/10/21",
+                            Date = "2/16/21",
                             Kicker = 22,
                             Name = "Power Ball",
                             Num1 = 9,
@@ -1100,7 +1100,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 88,
-                            Date = "1/10/21",
+                            Date = "2/18/21",
                             Kicker = 24,
                             Name = "Power Ball",
                             Num1 = 1,
@@ -1112,7 +1112,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 89,
-                            Date = "1/10/21",
+                            Date = "2/23/21",
                             Kicker = 9,
                             Name = "Power Ball",
                             Num1 = 4,
@@ -1124,7 +1124,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 90,
-                            Date = "1/10/21",
+                            Date = "2/25/21",
                             Kicker = 21,
                             Name = "Power Ball",
                             Num1 = 10,
@@ -1136,7 +1136,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 91,
-                            Date = "1/10/21",
+                            Date = "3/2/21",
                             Kicker = 9,
                             Name = "Power Ball",
                             Num1 = 16,
@@ -1148,7 +1148,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 92,
-                            Date = "1/10/21",
+                            Date = "3/4/21",
                             Kicker = 4,
                             Name = "Power Ball",
                             Num1 = 1,
@@ -1160,7 +1160,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 93,
-                            Date = "1/10/21",
+                            Date = "3/9/21",
                             Kicker = 18,
                             Name = "Power Ball",
                             Num1 = 6,
@@ -1172,7 +1172,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 94,
-                            Date = "1/10/21",
+                            Date = "3/11/21",
                             Kicker = 4,
                             Name = "Power Ball",
                             Num1 = 7,
@@ -1184,7 +1184,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 95,
-                            Date = "1/10/21",
+                            Date = "3/16/21",
                             Kicker = 26,
                             Name = "Power Ball",
                             Num1 = 5,
@@ -1196,7 +1196,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 96,
-                            Date = "1/10/21",
+                            Date = "3/18/21",
                             Kicker = 2,
                             Name = "Power Ball",
                             Num1 = 7,
@@ -1208,7 +1208,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 97,
-                            Date = "1/10/21",
+                            Date = "3/23/21",
                             Kicker = 23,
                             Name = "Power Ball",
                             Num1 = 13,
@@ -1220,7 +1220,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 98,
-                            Date = "1/10/21",
+                            Date = "3/25/21",
                             Kicker = 9,
                             Name = "Power Ball",
                             Num1 = 19,
@@ -1232,7 +1232,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 99,
-                            Date = "1/10/21",
+                            Date = "3/30/21",
                             Kicker = 26,
                             Name = "Power Ball",
                             Num1 = 2,
@@ -1244,7 +1244,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 100,
-                            Date = "1/10/21",
+                            Date = "4/1/21",
                             Kicker = 23,
                             Name = "Power Ball",
                             Num1 = 2,
@@ -1256,7 +1256,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 101,
-                            Date = "1/10/21",
+                            Date = "4/6/21",
                             Kicker = 19,
                             Name = "Power Ball",
                             Num1 = 18,
@@ -1268,7 +1268,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 102,
-                            Date = "1/10/21",
+                            Date = "4/8/21",
                             Kicker = 4,
                             Name = "Power Ball",
                             Num1 = 15,
@@ -1280,7 +1280,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 103,
-                            Date = "1/10/21",
+                            Date = "4/13/21",
                             Kicker = 22,
                             Name = "Power Ball",
                             Num1 = 12,
@@ -1292,7 +1292,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 104,
-                            Date = "1/10/21",
+                            Date = "4/15/21",
                             Kicker = 9,
                             Name = "Power Ball",
                             Num1 = 8,
@@ -1304,7 +1304,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 105,
-                            Date = "1/10/21",
+                            Date = "4/20/21",
                             Kicker = 3,
                             Name = "Power Ball",
                             Num1 = 1,
@@ -1316,7 +1316,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 106,
-                            Date = "1/10/21",
+                            Date = "4/22/21",
                             Kicker = 17,
                             Name = "Power Ball",
                             Num1 = 5,
@@ -1328,7 +1328,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 107,
-                            Date = "1/10/21",
+                            Date = "4/27/21",
                             Kicker = 19,
                             Name = "Power Ball",
                             Num1 = 26,
@@ -1340,7 +1340,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 108,
-                            Date = "1/10/21",
+                            Date = "4/29/21",
                             Kicker = 5,
                             Name = "Power Ball",
                             Num1 = 7,
@@ -1352,7 +1352,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 109,
-                            Date = "1/10/21",
+                            Date = "5/4/21",
                             Kicker = 13,
                             Name = "Power Ball",
                             Num1 = 2,
@@ -1364,7 +1364,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 110,
-                            Date = "1/10/21",
+                            Date = "5/6/21",
                             Kicker = 14,
                             Name = "Power Ball",
                             Num1 = 8,
@@ -1376,7 +1376,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 111,
-                            Date = "1/10/21",
+                            Date = "5/11/21",
                             Kicker = 15,
                             Name = "Power Ball",
                             Num1 = 6,
@@ -1388,7 +1388,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 112,
-                            Date = "1/10/21",
+                            Date = "5/13/21",
                             Kicker = 13,
                             Name = "Power Ball",
                             Num1 = 24,
@@ -1400,7 +1400,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 113,
-                            Date = "1/10/21",
+                            Date = "5/18/21",
                             Kicker = 26,
                             Name = "Power Ball",
                             Num1 = 24,
@@ -1412,7 +1412,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 114,
-                            Date = "1/10/21",
+                            Date = "5/20/21",
                             Kicker = 11,
                             Name = "Power Ball",
                             Num1 = 25,
@@ -1424,7 +1424,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 115,
-                            Date = "1/10/21",
+                            Date = "5/25/21",
                             Kicker = 22,
                             Name = "Power Ball",
                             Num1 = 3,
@@ -1436,7 +1436,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 116,
-                            Date = "1/10/21",
+                            Date = "5/27/21",
                             Kicker = 14,
                             Name = "Power Ball",
                             Num1 = 10,
@@ -1448,7 +1448,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 117,
-                            Date = "1/10/21",
+                            Date = "6/1/21",
                             Kicker = 19,
                             Name = "Power Ball",
                             Num1 = 2,
@@ -1460,7 +1460,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 118,
-                            Date = "1/10/21",
+                            Date = "6/3/21",
                             Kicker = 7,
                             Name = "Power Ball",
                             Num1 = 2,
@@ -1472,7 +1472,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 119,
-                            Date = "1/10/21",
+                            Date = "6/8/21",
                             Kicker = 20,
                             Name = "Power Ball",
                             Num1 = 8,
@@ -1484,7 +1484,7 @@ namespace RestServer.Migrations
                         new
                         {
                             DrawingId = 120,
-                            Date = "1/10/21",
+                            Date = "6/10/21",
                             Kicker = 27,
                             Name = "Power Ball",
                             Num1 = 13,
