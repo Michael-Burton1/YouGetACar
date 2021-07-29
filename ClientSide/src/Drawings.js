@@ -12,6 +12,13 @@ class Drawings extends React.Component {
     dispatch(makeApiCall());
   }
 
+  // findMostCommonNumbers = (data) => { logic here to find those, return the new array or whatever data type}
+  // Look at dictionaries (JS named something else) key,values. 
+  // Make some conditional that looks at the number being passed in, checks to see if that number exists in the dictionary -- if it does, add 1 to the value (number would be key, value would be occurences) and if it does NOT exist, add a new key and value of 1 (one occurence so far)
+  // after all that, check to see which top x numbers have the highest value, and return them.
+
+  // theMethodthatIsCalledWhenClicked = () => 
+
   render() {
     const { error, isLoading, drawings } = this.props;
     if (error) {
@@ -31,6 +38,7 @@ class Drawings extends React.Component {
               </li>
             )}
           </ul>
+          {/* <button onClick={call that method here} />*/}
         </React.Fragment>
       );
     }
